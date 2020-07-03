@@ -67,6 +67,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\style.css" />
+    <Content Include="Demo01.html" />
+    <Content Include="Demo02.html" />
+    <Content Include="Demo03.html" />
+    <Content Include="Demo04.html" />
+    <Content Include="Demo05.html" />
+    <Content Include="Demo06.html" />
+    <Content Include="Demo07.html" />
+    <Content Include="Demo08.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
